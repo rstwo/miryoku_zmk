@@ -3,6 +3,6 @@
 
 # outboard_repository=GEIGEIGEIST/zmk-config-totem
 outboard_repository=rstwo/zmk-config
-outboard_ref=totem-dongle
+outboard_ref=master
 outboard_from=config/boards/shields/totem
 outboard_to=boards/shields/totem
