@@ -1,0 +1,4 @@
+outboard_repository=rstwo/zmk-config
+outboard_ref=cradio-dongle
+outboard_from=config/boards/shields/cradio-dongle
+outboard_to=boards/shields/cradio-dongle
